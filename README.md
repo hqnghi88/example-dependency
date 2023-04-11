@@ -1,4 +1,4 @@
-ex-dependency
+sdsdex-dependency
 =============
 
 This repository contains several project files and an external Git repository dependency that demonstrates submodule usage.
